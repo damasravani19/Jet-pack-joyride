@@ -1,0 +1,24 @@
+BRIEF DESCRIPTION OF THE GAME:
+==============================
+
+A-> moves left
+W-> moves up
+D-> moves right
+B-> firing the bullets
+spacebar->protecting shield(lives aren't lost even upon touching the beams)
+The mandalorian move with the gameboard
+
+When mandalorian touches
+coins-->> coins disappear;score increases by 10
+beams-->> losses 1 life
+magnet and enemy-->> nthg happens
+power boost-->> game speed increases
+
+when bullet touches
+coins and magnet-->> nthg haappens
+beams-->> disappear
+Enemy-->> disappear increase in score
+boss enemy--> loses one life
+
+At the end;
+  Escape from iceballs(else player loses life) and with the help of bullets hit th bossenemy make its lives to zero to win the game
